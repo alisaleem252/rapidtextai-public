@@ -1,5 +1,5 @@
-# rapidtextai
-List of RapidTextAI Prompts, Anyone can contribute and add a prompt and will publish them on app.
+# Rapidtextai.com
+List of RapidTextAI.com Prompts, Anyone can contribute and add a prompt and we will publish them on app.
 
 ---
 
