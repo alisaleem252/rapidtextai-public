@@ -1,0 +1,2 @@
+# rapidtextai
+RapidTextAI Prompts
